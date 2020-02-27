@@ -1,0 +1,4 @@
+For this assignment i took the ideas from count sort and formed 10 ArrayList that would store data depending on the 1000s. this would then make it easier to sort the 1 million numbers. 
+Once grouped together by category i used quick sort for the the individual arrays so that each one is sorted.
+Next I combinned all the arrays into one arraylist in order. i.e. 0000s then 1000s then 2000s then...then 9000s
+that is how i ordered my list of numbers :)
